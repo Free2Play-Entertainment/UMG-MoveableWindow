@@ -1,4 +1,10 @@
-// Copyright by Free2Play-Entertainment (2020)
+/**
+ * Based on Blueprints created by insthync
+ * --
+ * Copyright (c) 2017 Bay
+ * --
+ * https://github.com/insthync/UMG-MoveableWindow
+*/
 
 
 #include "MoveableWindowManager.h"
