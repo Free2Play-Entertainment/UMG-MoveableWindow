@@ -1,4 +1,10 @@
-// Copyright (c) 2017 Bay
+/**
+ * Based on Blueprints created by insthync
+ * --
+ * Copyright (c) 2017 Bay
+ * --
+ * https://github.com/insthync/UMG-MoveableWindow
+*/
 
 #pragma once
 
